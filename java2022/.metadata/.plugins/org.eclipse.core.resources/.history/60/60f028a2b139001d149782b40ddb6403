@@ -1,0 +1,24 @@
+package ödevler;
+
+public class arraysDemo {
+
+	public static void main(String[] args) {
+		
+		String ogrenci1="ahmet";
+		String ogrenci2="derin";
+		String ogrenci3="okan";
+		String ogrenci4="beyza";
+		
+		System.out.println(ogrenci1);
+		System.out.println(ogrenci2);
+		System.out.println(ogrenci3);
+		System.out.println(ogrenci4);
+		
+		
+		
+		
+		
+		
+	}
+
+}

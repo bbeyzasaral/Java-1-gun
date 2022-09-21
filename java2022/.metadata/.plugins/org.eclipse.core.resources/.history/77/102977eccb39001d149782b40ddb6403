@@ -1,0 +1,9 @@
+package ödevler;
+
+public class arkadaşSayılar {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

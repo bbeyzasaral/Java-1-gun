@@ -1,0 +1,15 @@
+package ödevler;
+
+public class datatyps {
+
+	public static void main(String[] args) {
+		double sayi=12.5;
+		sayi=-129;
+	
+
+		int sayi2=1556;
+		sayi=1548;
+		
+	}
+
+}

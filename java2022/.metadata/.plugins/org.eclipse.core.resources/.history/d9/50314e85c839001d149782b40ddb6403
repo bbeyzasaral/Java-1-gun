@@ -1,0 +1,34 @@
+package ödevler;
+
+public class miniProjeAsalSayı {
+
+	public static void main(String[] args) {
+	 int number = 23 ;
+	 int kalan = number % 2 ;
+	 boolean kalan = true;
+	 
+	 if(number==1) {
+		 System.out.println("sayı asal değildri");
+		 return;
+	 }
+	 
+	 if(number<1) {
+		 System.out.println("Geçersiz sayı");
+	 }
+	  for  ( int i=2; i< number;i++) {
+		  if(number % i == 0 ) {
+			  kalan = false;
+	  }
+	}
+	  
+	
+	if(kalan) {
+		System.out.println("sayı asal değildir");
+	}else {
+		System.out.println("sayı asal değildir");
+	}
+	
+	
+
+	}
+}

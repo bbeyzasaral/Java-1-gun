@@ -1,0 +1,14 @@
+package ödevler;
+
+public class reCapDemo2 {
+
+	public static void main(String[] args) {
+		String[] ogrenciler = {"derin,ahmet,okan"};
+		
+		for(string ogrenci:ogrenciler) {
+			
+			System.out.println(ogrenci);
+		}
+	}
+
+}

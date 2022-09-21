@@ -1,0 +1,28 @@
+package ödevler;
+
+public class switchDemo {
+
+	public static void main(String[] args) {
+
+		char grade = 'B';
+		switch (grade) {
+
+		case 'A':
+			System.out.println("mükemmel : Geçtiniz");
+			break;
+		case 'B':
+		case 'C':
+			System.out.println("iyi : geçtiniz");
+			break;
+		case 'D':
+			System.out.println("güzel: geçtiniz");
+			break;
+		case 'F':
+			System.out.println("Malesef: kaldınız");
+			break;
+		default:
+			System.out.println("Ggeçersiz not girdiniz");
+		}
+
+	}
+}

@@ -1,0 +1,17 @@
+package ödevler;
+
+public class variables {
+
+	public static void main(String[] args) {
+		
+		int ögrenciSayisi = 12;
+		String mesaj="öğrenci Sayısı:";
+		System.out.println(mesaj +  ögrenciSayisi);
+		System.out.println(mesaj +  ögrenciSayisi);
+		System.out.println("öğrenci sayım:" + ögrenciSayisi );
+		
+		
+
+	}
+
+}
